@@ -1,4 +1,4 @@
 # Lab4
 **Name:** Michael Taylor
 
-**Partner:** Jessica Knoblock
+**Partners:** Jessica Knoblock, Tim Papich
