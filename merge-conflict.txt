@@ -1,0 +1,6 @@
+
+<<<<<<< HEAD
+**Partners:** Jessica Knoblock This is a conflict
+=======
+**Partners:** Jessica Knoblock, Tim Papich 
+>>>>>>> f13da50d017ebe62455a62af568cc46c9b0d1d7f
